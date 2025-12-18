@@ -93,8 +93,8 @@ describe('Arithmetic', function () {
         });
     });
 
-// TODO: Challenge #1
- 
+// TODO: Challenge #1 
+ // Test the power function
 
     describe('Multiplication', function () {
         it('multiplies two positive integers', function (done) {
